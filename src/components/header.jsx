@@ -4,7 +4,7 @@ import { Carousel } from 'react-responsive-carousel';
 export const Header = (props) => {
   return (
     <header id='header'>
-      <Carousel showThumbs={false} autoFocus autoPlay>
+      <Carousel showThumbs={false} autoFocus autoPlay emulateTouch={false} swipeable={false}>
         {
           props.data && props.data.map((element, i) => {
             return (
