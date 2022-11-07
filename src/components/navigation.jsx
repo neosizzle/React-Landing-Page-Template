@@ -16,7 +16,9 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
           </button>
           <a className='navbar-brand page-scroll' href='#page-top'>
-            Company Logo
+            <div>
+            <img src="img/logo.png" alt="logo"  height={40}/>
+            </div>
           </a>{' '}
         </div>
 

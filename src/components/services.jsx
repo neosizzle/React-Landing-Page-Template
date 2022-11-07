@@ -16,12 +16,12 @@ export const Services = (props) => {
                   {' '}
                   <i className={d.icon}></i>
                   <div className='service-desc'>
-                    <h3>{d.name}</h3>
+                    <h4>{d.name}</h4>
                     <p>{d.text}</p>
                   </div>
                 </div>
               ))
-            : 'loading'}
+            : 'loading'}            
         </div>
       </div>
     </div>
