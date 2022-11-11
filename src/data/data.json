@@ -1,121 +1,81 @@
 {
   "Header": [
     {
-      "title": "Your first choice of physiotherapy service",
-      "paragraph": "We are medical profession that can help you elevate your health by restoring movement and fuction of your body.",
-      "image" : "img/intro-bg.jpg"
+      "title": null,
+      "paragraph": null,
+      "image" : "img/intro-bg.png"
     },
     {
-      "title": "physiotherapy and rehabilation services",
-      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum.",
+      "title": "Physiotherapy and rehabilation services",
+      "paragraph": "We provide professional physio service at your comfort home.\nNo need to worry about traffic jam, time and transfering of patient.",
       "image" : "img/intro-bg2.jpg"
     }
   ],
   "About": {
-    "paragraph": "Established in August 2018, the team is made up of a group of experienced specialist physiotherapists. At Global Physio & Rehab Centre, physiotherapy & rehabilitation is in the heart of everything we do.",
+    "paragraph": "We are a team of experienced physiotherapists that aims to provide best of the best physiotherapy services. We are strategically located in Kuala Lumpur to serve clients across Malaysia. We provide treatment & services for a variety of clinical conditions including musculoskeletal, neurological, cardiorespiratory, paediatrics, sports injuries, occupational health & post-operative cases",
     "Why": [
-      "Deliver high quality services and treatment",
-      "Promote fast recovery and for you to stay better"
+      "Pain management with no side effect",
+      "Suitable for all age group"
 
     ],
     "Why2": [
-      "Educate the public on the importance of physiotherapy and rehabilitation",
-      "Ensure that you are able to return to your daily activities pain-free",
-      "Ensure you remain functionally well"
+      "Customized treatment approaches",
+      "Optimize the quality of your daily activity",
+      "Prevent recurrence & deconditioning"
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "HOME VISIT",
+      "images": ["img/portfolio/HOME VISIT.png", "img/portfolio/01-large.jpg"],
+      "category": "Training"
     }
   ],
   "Services": [
     {
       "icon": "fa fa-medkit",
       "name": "STROKE REHAB",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": ""
     },
     {
-      "icon": "fa fa-user-md",
+      "icon": "fa fa-solid fa-bone",
       "name": "MUSCULOSKELETAL PHYSIOTHERAPY",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": ""
     },
     {
-      "icon": "fa fa-heart",
+      "icon": "fa fa-solid fa-brain",
       "name": "NEUROLOGICAL REHABILITATION",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": ""
     },
     {
-      "icon": "fa fa-plus-square",
+      "icon": "fa fa-solid fa-person-running",
       "name": "SPORTS REHABILITATION",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": ""
     },
     {
-      "icon": "fa fa-wheelchair",
+      "icon": "fa fa-solid fa-wrench",
       "name": "WORK-RELATED INJURIES",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": ""
     },
     {
-      "icon": "fa fa-stethoscope",
+      "icon": "fa fa-solid fa-hand-holding-medical",
       "name": "BRACING & SUPPORT",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": ""
     },
     {
       "icon": "fa fa-stethoscope",
       "name": "PRE & POST-OPERATIVE REHABILITATION",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": ""
     },
     {
-      "icon": "fa fa-stethoscope",
+      "icon": "fa fa-solid fa-heart",
       "name": "SCOLIOSIS REHAB PROGRAM",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": ""
     },
     {
-      "icon": "fa fa-stethoscope",
+      "icon": "fa fa-solid fa-house-medical",
       "name": "HOME VISIT",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": ""
     }
   ],
   "Testimonials": [
@@ -152,33 +112,38 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "img": "img/team/joey.png",
+      "name": "Joey Loo",
+      "job": "Admin Manager",
+      "desc": "Joey is analytical and detailed oriented. She has been working for more than 15 years in the marketing and administrative field. After her last job in an oil and gas company, she decided to move out of her comfort zone and venture into the healthcare field. For the past 3 years, she has witnessed the importance of rehabilitation for those in pain. She strives to deliver high quality services that meets the needs of every clients. Having suffered from wrist injury herself, she understands the process of rehabilitation and the importance of how clients feel throughout the process. She hopes to bring warmness and make every client feels cared for."
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "img": "img/team/doreen.png",
+      "name": "Doreen Can Lee Siah",
+      "job": "Physiotherapist",
+      "desc": "Completed her study in Bachelors of Physiotherapy (Hons) with dual certification from Anglia Ruskin University (UK) and MAHSA University.She had clinical experiences in few high ranked local hospitals.She has great interest in treating neurological, cardiorespiratory and paediatrics conditions. She is an active and outgoing person who loves joining events, outdoors activities and sports. She believes her passion, positivity and strong desire of continuous learning will help to bring the best out of her clients back to their desired lifestyle."
     },
     {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "img": "img/team/munmun.png",
+      "name": "Yap Mun Mun",
+      "job": "Physiotherapist",
+      "desc": "Mun Mun graduated from Asia Metropolitan University with Bachelors (Hons) Physiotherapy in 2016. After graduation, she joined a private clinic, which specialized in spine care. Throughout her 2 years there, she was exposed to a diverse range of musculoskeletal and spine conditions. She was also trained to print custom made foot orthotics under a famous doctor. She is very result driven and strive to achieve the best outcome for her clients."
     },
     {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "img": "img/team/aising.png",
+      "name": "Gan Ai Sing",
+      "job": "Physiotherapist",
+      "desc": "After completing her undergraduate studies in Physiotherapy in 2012, Ai Sing joined UKM Medical Centre. During her 6 years there, she was exposed to a variety of clinical conditions including Musculoskeletal, neurological, pediatrics and post-operative management cases. She also had the opportunity to undergo regular training sessions conducted by visiting renowned therapists from overseas. Ai Sing has a strong desire for continuous learning. In 2014, she decided to further her studies part time for 3 years and completed her Bachelors (Hons) Physiotherapy with dual certification from Anglia Ruskin University (UK) and MAHSA University"
     }
   ],
   "Contact": {
-    "address": "1233, Some Address, Some street, Some state",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": "11, Jalan Damai Niaga 1, Alam Damai Cheras, 56000 Kuala Lumpur, Malaysia.",
+    "phone": "+603-9108 3337 +6012-797 1668",
+    "email": "globalphysioplt@gmail.com",
+    "facebook": "https://www.facebook.com/physiotherapyplt/",
+    "twitter": "https://www.instagram.com/global_physio/",
+    "youtube": "https://www.youtube.com/channel/UCgv8PVvYgH3PiMubdpmRpsA",
+    "whatsapp": "https://web.whatsapp.com/send?phone=+60127971668&text="
   },
   "Features": [
     {
@@ -188,8 +153,8 @@
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Promotions",
-      "text": "We will do promotions to appreciate our new and ongoing customers"
+      "title": "Evidence - based practice",
+      "text": "Treatment plan is based on best available, current valid and relevant evidence"
     },
     {
       "icon": "fa fa-group",

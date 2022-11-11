@@ -87,7 +87,7 @@ hr {
   color: #333;
   text-transform: uppercase; */
   padding: 0%;
-  margin: 9px 20px 0;
+  margin: 0 20px 9px 9px ;
 }
 #menu.navbar-default .navbar-nav > li > a {
   font-family: "Lato", sans-serif;
@@ -211,7 +211,6 @@ a:focus,
   width: 100%;
   height: 100%;
   padding: 0;
-  /* background: url(../img/intro-bg.jpg) center center no-repeat; */
   background-color: #e5e5e5;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -244,7 +243,7 @@ a:focus,
   margin-bottom: 60px;
 }
 header .intro-text {
-  padding-top: 350px;
+  padding-top: 200px;
   padding-bottom: 200px;
   text-align: center;
 }
@@ -403,6 +402,84 @@ header .intro-text {
 .hover-bg:hover .hover-text {
   opacity: 1;
 }
+
+.myMenuClassName {
+  display: block;
+}
+
+.dropdown-select {
+  width: fit-content;
+  margin-left: -15px;
+}
+
+.img-responsive {
+  width: 100%;
+}
+
+.image-link {
+  cursor: pointer;
+}
+
+.carousel-dialog-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  min-height: 100vh;
+  min-width: 100vw;
+  background-color: black;
+  background-color: rgba(0,0,0,0.4);
+  z-index: 1031;
+  overflow-y: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.carousel-dialog{
+  /* padding: 0 190px; */
+  height: 500px;
+  width: 1000px;
+}
+
+.carousel-dialog .carousel .carousel-status {
+ display: none;
+}
+
+.carousel-dialog img{
+  height: 500px;
+  width: 1000px;
+  object-fit: contain;
+}
+
+/*pagination*/
+.paginate{
+  display: flex;
+  justify-content: center;
+  margin: 50px 0;
+  font-size: large;
+  font-weight: 500;
+}
+
+.paginate-button{
+
+  background-color: #5ca9fb;
+  background-image: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+  padding: 0 10px;
+  margin: 0 10px;
+  letter-spacing: 1px;
+  font-size: 15px;
+  font-weight: 500;
+  transition: all 0.5s linear;
+  border: 0;
+}
+
+.paginate-button a{
+  font-family: "Raleway", sans-serif;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+
 /* Testimonials Section */
 #testimonials {
   padding: 100px 0;
@@ -460,6 +537,11 @@ header .intro-text {
 #team .thumbnail .caption {
   padding: 10px 0 0;
   color: #888;
+}
+
+.team-content {
+  padding: 10px 0;
+  text-align: left;
 }
 
 /*Video Section*/
@@ -618,6 +700,10 @@ label {
 }
 
 @media (max-width: 768px) {
+  .intro h1 {
+    font-size: xx-large;
+  }
+
   #about img {
     margin: 50px 0;
   }
@@ -625,5 +711,31 @@ label {
   #video iframe {
     width: 300px;
     height: 300px;
+  }
+
+  .team-content {
+    padding: 10px 10px;
+    text-align: center;
+  }
+
+  .carousel-dialog-container {
+    min-height: -webkit-fill-available;
+    min-width: -webkit-fill-available;
+  }
+
+  .carousel-dialog{
+    /* padding: 0 190px; */
+    height: 150px;
+    width: 300px;
+  }
+  
+  .carousel-dialog .carousel .carousel-status {
+   display: none;
+  }
+  
+  .carousel-dialog img{
+    height: 150px;
+    width: 300px;
+    object-fit: contain;
   }
 }

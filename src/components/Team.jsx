@@ -4,12 +4,12 @@ export const Team = (props) => {
       <div className='container'>
         <div className='col-md-8 col-md-offset-2 section-title'>
           <h2>Meet the Team</h2>
-          <p>
+          {/* <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
             dapibus leonec.
-          </p>
+          </p> */}
         </div>
-        <div id='row'>
+        {/* <div id='row'>
           {props.data
             ? props.data.map((d, i) => (
                 <div key={`${d.name}-${i}`} className='col-md-3 col-sm-6 team'>
@@ -24,7 +24,39 @@ export const Team = (props) => {
                 </div>
               ))
             : 'loading'}
+        </div> */}
+        {
+          props.data?
+          props.data.map((d, i) =>
+          (
+            window.innerWidth <= 768 || i % 2 == 0 ? 
+            <div key={`${d.name}-${i}`} className="row">
+            <div  className='col-md-3 col-sm-12 order-2'>
+              <img src={d.img} alt='...' className='team-img' />
+            </div>
+            <div  className='col-md-9 col-sm-12 team-content'>
+              <h4>{d.name}</h4>
+              <p>{d.job}</p>
+              <div>
+                {d.desc}
+              </div>
+            </div>
+          </div> :
+          <div key={`${d.name}-${i}`} className="row">
+          <div  className='col-md-9 col-sm-12 team-content'>
+            <h4>{d.name}</h4>
+            <p>{d.job}</p>
+            <div>
+            {d.desc}
+            </div>
+          </div>
+          <div  className='col-md-3 col-sm-12 order-2'>
+            <img src={d.img} alt='...' className='team-img' />
+          </div>
         </div>
+          )) : 
+          "loading"
+        }
       </div>
     </div>
   )
