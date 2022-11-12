@@ -3,18 +3,18 @@ import ReactPaginate from 'react-paginate';
 import { useState } from "react";
 import Dropdown from 'react-dropdown';
 import 'react-dropdown/style.css';
-const ITEMS_PER_PAGE = 20;
+const ITEMS_PER_PAGE = 9;
 
 export const Gallery = (props) => {
 
   const [currPage, setCurrPage] = useState(0);
-  const [currCategory, setCurrCategory] = useState("Treatment");
+  const [currCategory, setCurrCategory] = useState("Pre and post treatment");
   const data = props.data?.filter((e)=>e.category === currCategory);
   const currData = data ? data.slice(currPage * ITEMS_PER_PAGE, currPage * ITEMS_PER_PAGE + ITEMS_PER_PAGE) : null;
   const pageCount = data ? data.length / ITEMS_PER_PAGE : 0;
 
   const options = [
-    "Treatment", "Training", "House call", "Event"
+    "Pre and post treatment", "Our happy customer", "Home visit", "Event"
   ];
   const defaultOption = currCategory;
 
@@ -26,6 +26,7 @@ export const Gallery = (props) => {
   const onSelect = (event) =>
   {
     setCurrCategory(event.value);
+    setCurrPage(0);
   }
 
   return (

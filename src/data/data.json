@@ -26,9 +26,607 @@
   },
   "Gallery": [
     {
-      "title": "HOME VISIT",
-      "images": ["img/portfolio/HOME VISIT.png", "img/portfolio/01-large.jpg"],
-      "category": "Training"
+      "title": "",
+      "images": ["img/portfolio/event/event (1).jpg"],
+      "category": "Event"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/event/event (1).jpeg"],
+      "category": "Event"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/event/event (2).jpg"],
+      "category": "Event"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/event/event (2).jpeg"],
+      "category": "Event"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/event/event (3).jpg"],
+      "category": "Event"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/event/event (3).jpeg"],
+      "category": "Event"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/event/event (4).jpg"],
+      "category": "Event"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/event/event (4).jpeg"],
+      "category": "Event"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/event/event (5).jpg"],
+      "category": "Event"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/event/event (5).jpeg"],
+      "category": "Event"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/event/event (6).jpg"],
+      "category": "Event"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/event/event (6).jpeg"],
+      "category": "Event"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/event/event (7).jpg"],
+      "category": "Event"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/event/event (7).jpeg"],
+      "category": "Event"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/event/event (8).jpg"],
+      "category": "Event"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/event/event (8).jpeg"],
+      "category": "Event"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/event/event (9).jpg"],
+      "category": "Event"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/event/event (9).jpeg"],
+      "category": "Event"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/event/event (10).jpg"],
+      "category": "Event"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/event/event (10).jpeg"],
+      "category": "Event"
+    },{
+      "title": "",
+      "images": ["img/portfolio/event/event (11).jpg"],
+      "category": "Event"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/event/event (12).jpg"],
+      "category": "Event"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/event/event (13).jpg"],
+      "category": "Event"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/event/event (14).jpg"],
+      "category": "Event"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/event/event (15).jpg"],
+      "category": "Event"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/event/event (16).jpg"],
+      "category": "Event"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/event/event (17).jpg"],
+      "category": "Event"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/event/event (18).jpg"],
+      "category": "Event"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/event/event (19).jpg"],
+      "category": "Event"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/event/event (20).jpg"],
+      "category": "Event"
+    },{
+      "title": "",
+      "images": ["img/portfolio/event/event (21).jpg"],
+      "category": "Event"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/event/event (22).jpg"],
+      "category": "Event"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/event/event (23).jpg"],
+      "category": "Event"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/event/event (24).jpg"],
+      "category": "Event"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/event/event (25).jpg"],
+      "category": "Event"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/event/event (26).jpg"],
+      "category": "Event"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/event/event (27).jpg"],
+      "category": "Event"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/event/event (28).jpg"],
+      "category": "Event"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/event/event (29).jpg"],
+      "category": "Event"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/event/event (30).jpg"],
+      "category": "Event"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/customers/customers (1).jpg"],
+      "category": "Our happy customer"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/customers/customers (1).jpeg"],
+      "category": "Our happy customer"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/customers/customers (2).jpg"],
+      "category": "Our happy customer"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/customers/customers (2).jpeg"],
+      "category": "Our happy customer"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/customers/customers (3).jpg"],
+      "category": "Our happy customer"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/customers/customers (3).jpeg"],
+      "category": "Our happy customer"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/customers/customers (4).jpg"],
+      "category": "Our happy customer"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/customers/customers (4).jpeg"],
+      "category": "Our happy customer"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/customers/customers (5).jpg"],
+      "category": "Our happy customer"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/customers/customers (5).jpeg"],
+      "category": "Our happy customer"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/customers/customers (6).jpg"],
+      "category": "Our happy customer"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/customers/customers (6).jpeg"],
+      "category": "Our happy customer"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/customers/customers (7).jpeg"],
+      "category": "Our happy customer"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/customers/customers (8).jpeg"],
+      "category": "Our happy customer"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/customers/customers (9).jpeg"],
+      "category": "Our happy customer"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/customers/customers (10).jpeg"],
+      "category": "Our happy customer"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/customers/customers (11).jpeg"],
+      "category": "Our happy customer"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/customers/customers (12).jpeg"],
+      "category": "Our happy customer"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/customers/customers (13).jpeg"],
+      "category": "Our happy customer"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/customers/customers (14).jpeg"],
+      "category": "Our happy customer"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/customers/customers (15).jpeg"],
+      "category": "Our happy customer"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/customers/customers (16).jpeg"],
+      "category": "Our happy customer"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/customers/customers (17).jpeg"],
+      "category": "Our happy customer"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/customers/customers (18).jpeg"],
+      "category": "Our happy customer"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/customers/customers (19).jpeg"],
+      "category": "Our happy customer"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/customers/customers (20).jpeg"],
+      "category": "Our happy customer"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/customers/customers (21).jpeg"],
+      "category": "Our happy customer"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/customers/customers (22).jpeg"],
+      "category": "Our happy customer"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/customers/customers (23).jpeg"],
+      "category": "Our happy customer"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/customers/customers (24).jpeg"],
+      "category": "Our happy customer"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/customers/customers (25).jpeg"],
+      "category": "Our happy customer"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/customers/customers (26).jpeg"],
+      "category": "Our happy customer"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/customers/customers (27).jpeg"],
+      "category": "Our happy customer"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/customers/customers (28).jpeg"],
+      "category": "Our happy customer"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/home/home (1).jpeg"],
+      "category": "Home visit"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/home/home (1).jpg"],
+      "category": "Home visit"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/home/home (1).mp4"],
+      "category": "Home visit"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/home/home (1).jpeg"],
+      "category": "Home visit"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/home/home (1).jpg"],
+      "category": "Home visit"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/home/home (1).mp4"],
+      "category": "Home visit"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/home/home (2).jpeg"],
+      "category": "Home visit"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/home/home (2).jpg"],
+      "category": "Home visit"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/home/home (2).mp4"],
+      "category": "Home visit"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/home/home (3).jpeg"],
+      "category": "Home visit"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/home/home (3).jpg"],
+      "category": "Home visit"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/home/home (3).mp4"],
+      "category": "Home visit"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/home/home (4).jpeg"],
+      "category": "Home visit"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/home/home (4).jpg"],
+      "category": "Home visit"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/home/home (4).mp4"],
+      "category": "Home visit"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/home/home (5).jpg"],
+      "category": "Home visit"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/home/home (6).jpg"],
+      "category": "Home visit"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/home/home (7).jpg"],
+      "category": "Home visit"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/treatment/treatment (1).jpg"],
+      "category": "Pre and post treatment"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/treatment/treatment (1).jpeg"],
+      "category": "Pre and post treatment"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/treatment/treatment (2).jpg"],
+      "category": "Pre and post treatment"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/treatment/treatment (2).jpeg"],
+      "category": "Pre and post treatment"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/treatment/treatment (3).jpg"],
+      "category": "Pre and post treatment"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/treatment/treatment (3).jpeg"],
+      "category": "Pre and post treatment"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/treatment/treatment (4).jpg"],
+      "category": "Pre and post treatment"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/treatment/treatment (4).jpeg"],
+      "category": "Pre and post treatment"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/treatment/treatment (5).jpg"],
+      "category": "Pre and post treatment"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/treatment/treatment (5).jpeg"],
+      "category": "Pre and post treatment"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/treatment/treatment (6).jpg"],
+      "category": "Pre and post treatment"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/treatment/treatment (6).jpeg"],
+      "category": "Pre and post treatment"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/treatment/treatment (7).jpg"],
+      "category": "Pre and post treatment"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/treatment/treatment (7).jpeg"],
+      "category": "Pre and post treatment"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/treatment/treatment (8).jpg"],
+      "category": "Pre and post treatment"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/treatment/treatment (8).jpeg"],
+      "category": "Pre and post treatment"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/treatment/treatment (9).jpg"],
+      "category": "Pre and post treatment"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/treatment/treatment (9).jpeg"],
+      "category": "Pre and post treatment"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/treatment/treatment (11).jpeg"],
+      "category": "Pre and post treatment"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/treatment/treatment (12).jpeg"],
+      "category": "Pre and post treatment"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/treatment/treatment (13).jpeg"],
+      "category": "Pre and post treatment"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/treatment/treatment (14).jpeg"],
+      "category": "Pre and post treatment"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/treatment/treatment (15).jpeg"],
+      "category": "Pre and post treatment"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/treatment/treatment (16).jpeg"],
+      "category": "Pre and post treatment"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/treatment/treatment (17).jpeg"],
+      "category": "Pre and post treatment"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/treatment/treatment (18).jpeg"],
+      "category": "Pre and post treatment"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/treatment/treatment (19).jpeg"],
+      "category": "Pre and post treatment"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/treatment/treatment (20).jpeg"],
+      "category": "Pre and post treatment"
+    },
+    {
+      "title": "",
+      "images": ["img/portfolio/treatment/treatment (21).jpeg"],
+      "category": "Pre and post treatment"
     }
   ],
   "Services": [
@@ -108,6 +706,26 @@
       "img": "img/testimonials/06.jpg",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
       "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
     }
   ],
   "Team": [

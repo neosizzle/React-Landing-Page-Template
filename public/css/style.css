@@ -367,6 +367,9 @@ header .intro-text {
   margin: 0;
 }
 .hover-bg .hover-text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   position: absolute;
   text-align: center;
   margin: 0 auto;
@@ -376,7 +379,6 @@ header .intro-text {
     rgba(99, 114, 255, 0.8) 0%,
     rgba(92, 169, 251, 0.8) 100%
   );
-  padding: 30% 0 0;
   height: 100%;
   width: 100%;
   opacity: 0;
@@ -414,6 +416,7 @@ header .intro-text {
 
 .img-responsive {
   width: 100%;
+  height: 400px;
 }
 
 .image-link {
@@ -451,6 +454,12 @@ header .intro-text {
   object-fit: contain;
 }
 
+.carousel-dialog video{
+  height: 500px;
+  width: 1000px;
+}
+
+
 /*pagination*/
 .paginate{
   display: flex;
@@ -460,12 +469,16 @@ header .intro-text {
   font-weight: 500;
 }
 
+.paginate .previous, .paginate .next
+{
+  margin: 0 10px;
+}
+
 .paginate-button{
 
   background-color: #5ca9fb;
   background-image: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
   padding: 0 10px;
-  margin: 0 10px;
   letter-spacing: 1px;
   font-size: 15px;
   font-weight: 500;
