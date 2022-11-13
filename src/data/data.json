@@ -678,54 +678,52 @@
   ],
   "Testimonials": [
     {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "I had a ??? during MCO and came to global physio for my physio. My therapist took her time to talk me through the dynamics of my knee and the best methods to strengthen my body. The entire experience has been extremely rehabilative for me and my knee is so much stronger",
+      "name": "Mr H.S"
     },
     {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "I followed your instructions and have experience better recovery. Thank you so much Ms Gan",
+      "name": "Madam X"
     },
     {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "I attended treatment session at Global physio for my carpal tunnel syndrome, trigger singer and lower back problem since 2019. The result were great. The team were friendly and helpful.",
+      "name": "Madam Jeannie"
     },
     {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "Good morning Mun Mun, my knee getting so much better, no pain at all for now. Thank you very much.",
+      "name": "Madam Tang"
     },
     {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "I am so glad I come to this physio centre for recovery therapy. Definitely I will recommend this place to my family and friend as well.",
+      "name": "Mr Y"
     },
     {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "Had a wonderful session at Global. The therapist explain very well regarding my condiion. Looking forward for next session.",
+      "name": "Miss I"
     },
     {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "Yes. My mom back is getting better. Now no pain already. Thanks",
+      "name": "Mrs Tun"
     },
     {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "My knee can squat and walk now. Much better, thanks Global Physio.",
+      "name": "Mr Z"
     },
     {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "Hi, i have gone back to my evening jobs and walk. My knee getting much better after the sessions.",
+      "name": "Mrs W"
     },
     {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "My ankle are so much better after the session on last thursday.",
+      "name": "Mr A.H."
+    },
+    {
+      "text": "Mun 早上好，我的膝盖最近还蛮听话的没有痛了",
+      "name": "Madam Tang"
+    },
+    {
+      "text": "",
+      "name": ""
     }
   ],
   "Team": [
