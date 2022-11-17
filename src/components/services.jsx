@@ -5,8 +5,8 @@ export const Services = (props) => {
         <div className='section-title'>
           <h2>Our Services</h2>
           <p>
-            We treat your problem with various professional technique such as manual therapy, 
-            Myofascial Release, Electrotherapy, traction bed, Shockwave therapy, sports massage and therapeutic exercises prescription
+            We treat your problem with various professional technique such as Manual Therapy, 
+            Myofascial Release, Electrotherapy, Traction Bed, Shockwave Therapy, Sports Massage and Therapeutic Exercises Prescription
           </p>
         </div>
         <div className='row'>

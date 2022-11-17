@@ -6,7 +6,7 @@
       "image" : "img/intro-bg.png"
     },
     {
-      "title": "Physiotherapy and rehabilation services",
+      "title": "Physiotherapist and home physio",
       "paragraph": "We provide professional physio service at your comfort home.\nNo need to worry about traffic jam, time and transfering of patient.",
       "image" : "img/intro-bg2.jpg"
     }
@@ -678,7 +678,7 @@
   ],
   "Testimonials": [
     {
-      "text": "I had a ??? during MCO and came to global physio for my physio. My therapist took her time to talk me through the dynamics of my knee and the best methods to strengthen my body. The entire experience has been extremely rehabilative for me and my knee is so much stronger",
+      "text": "I had a fall during MCO and came to global physio for my physio. My therapist took her time to talk me through the dynamics of my knee and the best methods to strengthen my body. The entire experience has been extremely rehabilative for me and my knee is so much stronger",
       "name": "Mr H.S"
     },
     {
@@ -722,8 +722,8 @@
       "name": "Madam Tang"
     },
     {
-      "text": "",
-      "name": ""
+      "text": "自己的手痛已经两年了，也曾看过很多医生都没好。这次丈夫弄到膝盖经医生介绍来到global,感谢你们对我和丈夫的贴心照顾，教导我们运用运动来治疗，现在比以前好多了.",
+      "name": "Mrs Wan"
     }
   ],
   "Team": [
@@ -734,13 +734,13 @@
       "desc": "Joey is analytical and detailed oriented. She has been working for more than 15 years in the marketing and administrative field. After her last job in an oil and gas company, she decided to move out of her comfort zone and venture into the healthcare field. For the past 3 years, she has witnessed the importance of rehabilitation for those in pain. She strives to deliver high quality services that meets the needs of every clients. Having suffered from wrist injury herself, she understands the process of rehabilitation and the importance of how clients feel throughout the process. She hopes to bring warmness and make every client feels cared for."
     },
     {
-      "img": "img/team/doreen.png",
-      "name": "Doreen Can Lee Siah",
+      "img": "img/team/sunitha.jpg",
+      "name": "Sunitha Segaran",
       "job": "Physiotherapist",
-      "desc": "Completed her study in Bachelors of Physiotherapy (Hons) with dual certification from Anglia Ruskin University (UK) and MAHSA University.She had clinical experiences in few high ranked local hospitals.She has great interest in treating neurological, cardiorespiratory and paediatrics conditions. She is an active and outgoing person who loves joining events, outdoors activities and sports. She believes her passion, positivity and strong desire of continuous learning will help to bring the best out of her clients back to their desired lifestyle."
+      "desc": "Sunitha Segaran graduated from Asia Metropolitan University with Diploma in physiotherapy. Well versed with required skills and the ability to work closely with other professionals to assess a patient's needs and devise a suitable plan.reputable and experienced Physiotherapist. After Graduation, she joined a Private Medical Centre.Throughout her 6 years there she was exposed a wide range of musculosketal conditions, recovery focused treatments to enable patients to restore, maintain and rehabilitate movement physically and improve patient well-being."
     },
     {
-      "img": "img/team/munmun.png",
+      "img": "img/team/munmun.jpg",
       "name": "Yap Mun Mun",
       "job": "Physiotherapist",
       "desc": "Mun Mun graduated from Asia Metropolitan University with Bachelors (Hons) Physiotherapy in 2016. After graduation, she joined a private clinic, which specialized in spine care. Throughout her 2 years there, she was exposed to a diverse range of musculoskeletal and spine conditions. She was also trained to print custom made foot orthotics under a famous doctor. She is very result driven and strive to achieve the best outcome for her clients."
