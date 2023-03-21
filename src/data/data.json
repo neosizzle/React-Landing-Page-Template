@@ -3,6 +3,11 @@
     {
       "title": null,
       "paragraph": null,
+      "image" : "img/promo.png"
+    },
+    {
+      "title": null,
+      "paragraph": null,
       "image" : "img/intro-bg.png"
     },
     {
@@ -734,22 +739,22 @@
       "desc": "Joey is analytical and detailed oriented. She has been working for more than 15 years in the marketing and administrative field. After her last job in an oil and gas company, she decided to move out of her comfort zone and venture into the healthcare field. For the past 3 years, she has witnessed the importance of rehabilitation for those in pain. She strives to deliver high quality services that meets the needs of every clients. Having suffered from wrist injury herself, she understands the process of rehabilitation and the importance of how clients feel throughout the process. She hopes to bring warmness and make every client feels cared for."
     },
     {
-      "img": "img/team/sunitha.jpg",
-      "name": "Sunitha Segaran",
-      "job": "Physiotherapist",
-      "desc": "Sunitha Segaran graduated from Asia Metropolitan University with Diploma in physiotherapy. Well versed with required skills and the ability to work closely with other professionals to assess a patient's needs and devise a suitable plan.reputable and experienced Physiotherapist. After Graduation, she joined a Private Medical Centre.Throughout her 6 years there she was exposed a wide range of musculosketal conditions, recovery focused treatments to enable patients to restore, maintain and rehabilitate movement physically and improve patient well-being."
-    },
-    {
       "img": "img/team/munmun.jpg",
       "name": "Yap Mun Mun",
       "job": "Physiotherapist",
       "desc": "Mun Mun graduated from Asia Metropolitan University with Bachelors (Hons) Physiotherapy in 2016. After graduation, she joined a private clinic, which specialized in spine care. Throughout her 2 years there, she was exposed to a diverse range of musculoskeletal and spine conditions. She was also trained to print custom made foot orthotics under a famous doctor. She is very result driven and strive to achieve the best outcome for her clients."
     },
     {
-      "img": "img/team/aising.png",
+      "img": "img/team/cheryl.png",
+      "name": "Cheryl Lim",
+      "job": "Physiotherapist",
+      "desc": "Cheryl Lim, graduated as Bachelor of Physiotherapy (HONS) from Universiti Tunku Abdul Rahman Sungai Long campus. She had gone through clinical practices in Kuala Lumpur & Selangor area, and exposed with cases such as musculoskeletal, neurological & cardiopulmonary condition."
+    },
+    {
+      "img": "img/team/shiyong.png",
       "name": "Gan Ai Sing",
       "job": "Physiotherapist",
-      "desc": "After completing her undergraduate studies in Physiotherapy in 2012, Ai Sing joined UKM Medical Centre. During her 6 years there, she was exposed to a variety of clinical conditions including Musculoskeletal, neurological, pediatrics and post-operative management cases. She also had the opportunity to undergo regular training sessions conducted by visiting renowned therapists from overseas. Ai Sing has a strong desire for continuous learning. In 2014, she decided to further her studies part time for 3 years and completed her Bachelors (Hons) Physiotherapy with dual certification from Anglia Ruskin University (UK) and MAHSA University"
+      "desc": "Mr. Lim Shi Yong completed his B.Sc. (Hons) in Physiotherapy in MAHSA University. He has vast experience in physiotherapy practice in a private physiotherapy clinic since 2020. He is well adept working in both acute and chronic conditions ranging from post-operative acute care, musculoskeletal and neurology cases. Mr. Lim strongly believes the key of rehabilitation is setting a realistic and clear goal with clients. He practices Evidence Based Practice and incorporate manual therapy and exercise therapy to provide quality patient care. He advocates active therapy approach to ensure long term treatment effects."
     }
   ],
   "Contact": {
@@ -759,7 +764,7 @@
     "facebook": "https://www.facebook.com/physiotherapyplt/",
     "twitter": "https://www.instagram.com/global_physio/",
     "youtube": "https://www.youtube.com/channel/UCgv8PVvYgH3PiMubdpmRpsA",
-    "whatsapp": "https://web.whatsapp.com/send?phone=+60127971668&text="
+    "whatsapp": "https://wa.me/60127971668?text="
   },
   "Features": [
     {

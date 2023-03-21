@@ -142,7 +142,7 @@ export const Contact = (props) => {
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.youtube : '/'}>
+                    <a href={props.data ? props.data.whatsapp : '/'}>
                       <i class="fa fa-whatsapp" aria-hidden="true"></i>
                     </a>
                   </li>
